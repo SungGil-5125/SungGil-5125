@@ -1,4 +1,4 @@
-## 이제 부터 시작합니다.
+## I want to be a BE Developer !
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SungGil&fontSize=90)
 -->
