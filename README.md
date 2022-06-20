@@ -1,4 +1,4 @@
-## I want to be a BE Developer !
+## Hello I'm BackEnd developer 👋
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SungGil&fontSize=90)
 -->
